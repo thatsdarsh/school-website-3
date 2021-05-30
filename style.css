@@ -1,0 +1,71 @@
+#campus {
+    text-align: center;
+}
+
+#marqueeStyle {
+    background-color: cornflowerblue;
+}
+
+.edit {
+    background-color: cornflowerblue;
+}
+
+.travel_main-div img{
+    width: 300px
+}
+
+.travel_main-div {
+    border: 1px solid;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+
+#achievmentsID {
+    padding-bottom: 10px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 15px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text {
+    color: #ff7700
+}
+
+#school_achievement1 {
+    margin-bottom: 15px;
+}
+#school_achievement2 {
+    margin-bottom: 15px;
+}
+#achievmentID {
+    padding-bottom: 10px;
+}
+
+.good_environment_news {
+    margin-top: 13px;
+}
+
+.good_environment_news h4 {
+    border-bottom: 1px solid darkgreen;
+    padding: 8px;
+}
+
+.good_environment_news img {
+    border-radius: 25px;
+}
+
+.good_environment_news p {
+    margin-top: 10px
+}
